@@ -38,7 +38,7 @@ $ git push origin master
 $ git pull origin master
 
 ```
-### Resolving conflicts
+### Editing & Resolving conflicts ⚠️
 
 🖥 Machine 1 : Editing file README.md & pushing changes to remote repo
 
@@ -56,4 +56,6 @@ $ git add .
 $ git commit -m "Add parag 4"
 $ git push origin master
 
-```
+$ 
+``` 
+
