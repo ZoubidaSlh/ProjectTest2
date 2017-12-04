@@ -55,7 +55,6 @@ $ git push origin master
 $ git add .
 $ git commit -m "Add parag 4"
 $ git push origin master
-
-$ 
 ``` 
+![Conflict](https://github.com/ZoubidaSlh/ProjectTest2/blob/master/conflict.png?raw=true)
 
