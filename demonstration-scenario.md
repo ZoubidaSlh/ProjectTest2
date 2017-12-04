@@ -58,3 +58,12 @@ $ git push origin master
 ``` 
 ![Conflict](https://github.com/ZoubidaSlh/ProjectTest2/blob/master/conflict.png?raw=true)
 
+🖥 Machine 2 : Resolving conflicts
+
+```
+$ git pull 
+$ git add .
+$ git commit -m "Resolving conflict"
+$ git push
+``` 
+
